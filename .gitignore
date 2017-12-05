@@ -38,3 +38,5 @@ jspm_packages
 
 .esm-cache
 .eslintcache
+.cache
+dist
