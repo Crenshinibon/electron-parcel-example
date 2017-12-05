@@ -1,9 +1,9 @@
-# $package_name
+# electron-parcel-example
 
-[![Travis Build Status](https://img.shields.io/travis/$package_author/$package_name/master.svg)](http://travis-ci.org/$package_author/$package_name)
-[![NPM downloads](https://img.shields.io/npm/dt/$package_name.svg)](https://npmjs.org/package/$package_name)
+[![Travis Build Status](https://img.shields.io/travis/parro-it/electron-parcel-example/master.svg)](http://travis-ci.org/parro-it/electron-parcel-example)
+[![NPM downloads](https://img.shields.io/npm/dt/electron-parcel-example.svg)](https://npmjs.org/package/electron-parcel-example)
 
-> $package_description
+> A minimum viable Electron app with Parcel Bundler.
 
 background details relevant to understanding what this module does
 
@@ -12,9 +12,9 @@ background details relevant to understanding what this module does
 description of the example
 
 ```js
-const $package_var = require('$package_name');
+const electronParcelExample = require('electron-parcel-example');
 
-console.log({$package_var});
+console.log({electronParcelExample});
 ```
 
 This will output
@@ -29,7 +29,7 @@ This will output
 With [npm](https://npmjs.org/) installed, run
 
 ```bash
-npm install --save $package_name
+npm install --save electron-parcel-example
 ```
 
 ## See Also

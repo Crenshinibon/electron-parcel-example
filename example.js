@@ -1,3 +1,3 @@
-const $package_var = require("$package_name");
+const electronParcelExample = require("electron-parcel-example");
 
-console.log({ $package_var });
+console.log({ electronParcelExample });
